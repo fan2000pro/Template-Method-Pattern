@@ -1,0 +1,14 @@
+C:\Users\kulikovia\source\repos\Template Method Pattern\Template Method Pattern\bin\Debug\net8.0\Template Method Pattern.exe
+C:\Users\kulikovia\source\repos\Template Method Pattern\Template Method Pattern\bin\Debug\net8.0\Template Method Pattern.deps.json
+C:\Users\kulikovia\source\repos\Template Method Pattern\Template Method Pattern\bin\Debug\net8.0\Template Method Pattern.runtimeconfig.json
+C:\Users\kulikovia\source\repos\Template Method Pattern\Template Method Pattern\bin\Debug\net8.0\Template Method Pattern.dll
+C:\Users\kulikovia\source\repos\Template Method Pattern\Template Method Pattern\bin\Debug\net8.0\Template Method Pattern.pdb
+C:\Users\kulikovia\source\repos\Template Method Pattern\Template Method Pattern\obj\Debug\net8.0\Template Method Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kulikovia\source\repos\Template Method Pattern\Template Method Pattern\obj\Debug\net8.0\Template Method Pattern.AssemblyInfoInputs.cache
+C:\Users\kulikovia\source\repos\Template Method Pattern\Template Method Pattern\obj\Debug\net8.0\Template Method Pattern.AssemblyInfo.cs
+C:\Users\kulikovia\source\repos\Template Method Pattern\Template Method Pattern\obj\Debug\net8.0\Template Method Pattern.csproj.CoreCompileInputs.cache
+C:\Users\kulikovia\source\repos\Template Method Pattern\Template Method Pattern\obj\Debug\net8.0\Template Method Pattern.dll
+C:\Users\kulikovia\source\repos\Template Method Pattern\Template Method Pattern\obj\Debug\net8.0\refint\Template Method Pattern.dll
+C:\Users\kulikovia\source\repos\Template Method Pattern\Template Method Pattern\obj\Debug\net8.0\Template Method Pattern.pdb
+C:\Users\kulikovia\source\repos\Template Method Pattern\Template Method Pattern\obj\Debug\net8.0\Template Method Pattern.genruntimeconfig.cache
+C:\Users\kulikovia\source\repos\Template Method Pattern\Template Method Pattern\obj\Debug\net8.0\ref\Template Method Pattern.dll
